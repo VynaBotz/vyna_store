@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://telegra.ph/file/677780c08cc83059ac934.jpg" alt="Hyzer Md-V3" width="300" />
+<img src="https://telegra.ph/file/677780c08cc83059ac934.jpg" alt="vyna Md-V3" width="300" />
 
 </p>
-<h1 align="center">Hyzer Official</h1>
+<h1 align="center">Vyna Store</h1>
 
 >
 >
@@ -15,14 +15,9 @@
   <a href="https://api-hyzerr.herokuapp.com"><img title="Rest Api" src="https://img.shields.io/badge/Rest Api-Hyzerr.svg?style=for-the-badge&logo=twitter" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/6287892711054">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
+  <a href="https://wa.me/6285234261903">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
 </h4>
 </p>
-
-# Ambil Session Disini
-
-> Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lita=1&outputonly=1#.replit) 
-> Untuk Tutorialnya Liat Dan Subscribe [ Here ](https://youtu.be/7wfSvv4AHsQ) 
 
 ### Preview bot
 ------------------
@@ -35,7 +30,7 @@
 
 WhatsApp Bot Multi Device
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hyzerr/MD-V3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vyna/MD-V3)
 
 
 # Heroku Buildpack
@@ -47,23 +42,23 @@ WhatsApp Bot Multi Device
 | **Node.js**     | heroku/nodejs|
 
 # Creator Bot
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) 
+ [![vyna store](https://github.com/vynastore.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/vyna.png?size=200)](https://github.com/vyna) 
 ----|----
-[Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr)
+[Ilman](https://github.com/vynastore) | [Vyna](https://github.com/vyna)
  Author | Creator
  
-### Hyzer Statistics
+### vyna Statistics
 
-[![Hyzer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyzerr&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![Hyzer Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Hyzerr&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![vyna GitHub Stats](https://github-readme-stats.vercel.app/api?username=vyna&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![vyna Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vyna&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 # Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923)
+ [![vynastore](https://github.com/vynastore.png?size=200)](https://github.com/vynastore) | [![vyna](https://github.com/vyna.png?size=200)](https://github.com/vyna) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923)
 ----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Elyas](https://github.com/Paquito1923)
+[Vynastore](https://github.com/vynastore) | [vyna](https://github.com/vyna) | [vyna](https://github.com/Paquito1923)
  Helpfully | Suhu? | Friends
 
 ---------
 
 ## Request Fitur To
-[`Creator Here`](https://wa.me/6287892711054?text=Banh+req+fitur) 
+[`Creator Here`](https://wa.me/6285234261903?text=Banh+req+fitur) 
